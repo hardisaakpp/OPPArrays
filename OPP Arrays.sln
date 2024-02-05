@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPPArrays.Logic", "OPPArrays.Logic\OPPArrays.Logic.csproj", "{AAFC272D-C2F2-445E-9BC1-1E1EEEF34C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAFC272D-C2F2-445E-9BC1-1E1EEEF34C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFC272D-C2F2-445E-9BC1-1E1EEEF34C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFC272D-C2F2-445E-9BC1-1E1EEEF34C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFC272D-C2F2-445E-9BC1-1E1EEEF34C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F591B9ED-3072-4B10-859D-E9EC36AA64B1}
+	EndGlobalSection
+EndGlobal
